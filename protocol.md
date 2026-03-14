@@ -1,4 +1,4 @@
-# 📜 THE BITOPIA CODEX
+# 📜 THE BITOPIA PROTOCOL
 **The Foundational Protocol of the Bitopia Network State**
 *dasOS v1.0 | Designed in California | Powered by the Sun *
 
