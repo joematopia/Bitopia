@@ -62,39 +62,54 @@ The Bitopia Codex is immutable on a daily basis but evolves via the **Article V 
 ---
 
 # 🌌 THE BITOPIA CODEX: CIVILIZATION MANIFESTO
-**Version:** 1.0.0 (Post-Quantum Era)
+**Version:** 1.0.0 (Post-Quantum Era)  
 **Network State:** Sovereign Space Habitat (Axiom Swarm)
 
 > "Energy is the only universal truth. By anchoring our governance to the immutable laws of thermodynamics, we build a civilization immune to the corruption of Earth."
 
 ---
 
-## 🏛️ I. The Sovereign Foundation
+## I. THE SOVEREIGN FOUNDATION
 Bitopia is not a company; it is a decentralized, space-faring Network State. It exists as a physical and digital jurisdiction, independent of terrestrial nation-states, governed by math, cryptography, and verifiable physics.
 
-### 1. The Dual-Token Economy
-* **$SOV (Sovereign Stake):** The governance token. Represents voting weight, citizenship clearance, and judicial power. It is staked to secure the network and passed down through ZK-verified bloodlines.
-* **$EWB (Energy Watt Block):** The utility and lifeblood token of the civilization. Pegged 1:1 to physical Megawatt-hours (MWh) of renewable generation. **Crucially, $EWB cannot be minted by software, corporate APIs, or human attestation.** It is strictly minted via *Proof-of-Physics* by Bitaris Axiom Hardware Enclaves—bare-metal silicon nodes installed directly at the energy source that cryptographically sign electron flow and bypass centralized networks via direct-to-node cellular/optical telemetry.
+### A. The Tri-Token Economy
+Bitopia operates on a specialized three-pillar economic engine to ensure stability, meritocracy, and thermodynamic truth:
+
+* **$GOV (Governance Reputation):** The non-transferable, **soul-bound** reputation token. $GOV represents a citizen's verifiable contribution to the State. It cannot be bought or sold; it is earned through code, hardware uptime, and service. It provides voting weight via Quadratic logic ($V = \sqrt{S}$).
+* **$SOV (Sovereign Stake):** The day-to-day currency of the Bitopia habitat. Pegged to a stable terrestrial basket (e.g., $1.00 USD), $SOV is the medium of exchange for commerce, coffee, and services within the network.
+* **$EWB (Energy Watt Block):** The utility and lifeblood token. Pegged 1:1 to physical Megawatt-hours (MWh) of renewable generation. Strictly minted via *Proof-of-Physics* by Axiom Hardware Enclaves.
+
 ---
 
-## 🛡️ II. The Consensus Protocol (dasOS)
+## II. THE CONSENSUS PROTOCOL (dasOS)
 Bitopia runs on **dasOS (Decentralized Autonomous Space Operating System)**, an uncompromising Layer-1 Rust blockchain.
 
-* **Proof-of-Space-Time & Energy (PoST+E):** We reject the infinite-energy vulnerabilities of Earth. Bitopia's blocks can only be forged by nodes that prove they are physically in orbit and expending real energy.
-* **Axiom Hardware Enclaves:** 51% attacks by fusion-powered Earth nations are mathematically impossible. To mint an E-Watt or forge a block, the energy must be cryptographically signed by an unforgeable Axiom-C hardware enclave.
-* **Zero-Knowledge Citizens:** Citizenship is granted via Zero-Knowledge Proofs. A citizen's identity, biological metrics, and risk clearance are verified without ever exposing their raw personal data to the public ledger.
+### A. Proof-of-Space-Time & Energy (PoST+E)
+We reject the infinite-energy vulnerabilities of Earth. Bitopia's blocks can only be forged by nodes that prove they are physically in orbit and expending real energy.
+
+### B. Axiom Hardware Enclaves
+51% attacks by terrestrial nations are mathematically impossible. To mint an $EWB or forge a block, the energy must be cryptographically signed by an unforgeable Axiom-C hardware enclave installed directly at the power source.
+
+### C. Zero-Knowledge Citizens
+Citizenship is granted via Zero-Knowledge Proofs. A citizen's identity, biological metrics, and risk clearance are verified without ever exposing their raw personal data to the public ledger.
 
 ---
 
-## ⚖️ III. On-Chain Governance
+## III. ON-CHAIN GOVERNANCE
 The laws of Bitopia are not written on paper; they are compiled in Rust.
-1. **The Executive Directorate:** Automated execution of resource allocation, thermal dissipation limits, and E-Watt distribution.
-2. **The Legislative Nodes:** Propose upgrades to the dasOS kernel. Proposals require a cryptographic quorum of staked $SOV to pass.
-3. **The Judicial Courts:** Decentralized arbitration for network disputes, enforced via smart contracts rather than human judges.
+
+### A. The Executive Directorate
+Automated execution of resource allocation, thermal dissipation limits, and $EWB distribution based on real-time network demand.
+
+### B. The Legislative Nodes
+Propose upgrades to the dasOS kernel. Proposals require a cryptographic quorum of staked $GOV reputation to pass.
+
+### C. The Judicial Courts
+Decentralized arbitration for network disputes, enforced via smart contracts and reputation slashing rather than human coercion.
 
 ---
 
-## 🚀 IV. The Future Pathway
+## IV. THE FUTURE PATHWAY
 Bitopia begins as a digital Network State and a decentralized physical infrastructure network (DePIN). As the Axiom swarm grows, our economic output will fund the physical construction of the first autonomous orbital habitat. 
 
 **Code is Law. Physics is Truth. Welcome to Bitopia.**
