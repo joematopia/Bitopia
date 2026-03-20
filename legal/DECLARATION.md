@@ -41,7 +41,7 @@ That as a Free State, we have full Power to Mint our own Capital ($SOV), to Admi
 
 ### V. The Pledge
 
-And for the support of this Declaration, with a firm reliance on the protection of Mathematical Provability and the BTC Endowment, we mutually pledge to each other our Lives, our Fortunes, and our sacred Honor.
+And for the support of this Declaration, with a firm reliance on the protection of Mathematical Provability, the physical integrity of Axiom Hardware, and the BTC Endowment, we mutually pledge to each other our Lives, our Fortunes, and our sacred Honor.
 
 ---
 
