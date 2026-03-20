@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Bitopia Codex" width="600">
+  <img src="assets/logo.png" alt="Bitopia Codex" width="600">
 </p>
 
 # 📜 THE BITOPIA CODEX
@@ -42,12 +42,22 @@ Sovereignty is strictly voluntary. Every Citizen retains the unalienable right t
 ---
 
 ## ⚡ ARTICLE III: THE E-WATT THERMODYNAMIC ANCHOR
-The economic floor of the Bitopia State is bound to the physics of our universe. The State shall mint no fiat. The native reserve asset ($SOV) must be mathematically backed 1:1 by the **$EWB (Energy Watt Block)** protocl, verified via Axiom hardware attestation. 
+The economic floor of the Bitopia State is bound to the physics of our universe. The State shall mint no fiat. The native reserve asset ($SOV) must be mathematically backed 1:1 by the **$EWB (Energy Watt Block)** protocol, verified via Axiom hardware attestation. 
 
 ---
 
 ## 🛰️ ARTICLE IV: THE GALACTIC REGISTRY
 Bitopia claims zero terrestrial borders. Its jurisdiction is the Space Economy. The **Galactic Registry** serves as the sovereign Real-World Asset (RWA) ledger for orbital slots, near-earth objects, and off-world infrastructure. 
+
+---
+
+## ⚖️ ARTICLE V: THE AMENDMENT PROTOCOL
+The Bitopia Codex is immutable on a daily basis but evolves via the **Article V Protocol**. 
+* **Staked Proposals:** Requires 10,000 $GOV to propose; failed amendments result in slashed stakes.
+* **30-Day Time-Lock:** Mandatory terrestrial debate period for code audits.
+* **Quadratic Supermajority:** Approval requires a 75% supermajority calculated via $V = \sqrt{S}$ to prevent whale capture.
+
+> [Read the full Article V Procedural Document](./legal/article_v_amendment.md)
 
 ---
 
@@ -93,3 +103,11 @@ Bitopia begins as a digital Network State and a decentralized physical infrastru
 This Codex is ratified the moment a Node connects to the genesis block. 
 
 *“Life, Liberty, and the Pursuit of Happiness & On-Chain Prosperity.”*
+
+---
+## 📚 THE ARCHIVES (Deep Dives)
+For a detailed breakdown of our systems, consult the following directories:
+
+* [⚖️ Legal & Protocols](./legal/) — *Declaration of Independence & Amendment Laws*
+* [🔋 Economic & Energy Specs](./economics/) — *EWB Hardware Logic & SOV Stablecoin*
+* [🏛️ Governance & Procedures](./governance/) — *Multisig & Legislative Rules*
