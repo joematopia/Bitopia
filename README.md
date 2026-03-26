@@ -3,8 +3,8 @@
 </p>
 
 # 📜 THE BITOPIA CODEX
-**The Foundational Protocol of the Bitopia Network State**
-*dasOS v1.0 | Designed in California | Powered by the Sun *
+**The Foundational Protocol of the Sovereign Space Economy**
+*Architected by Bitaris | Powered by Physics | Executed by dasOS*
 
 ## 🏛️ PREAMBLE OF THE NODES
 **We the Nodes of the Bitopia Network**, in order to form a more perfect Digital Union, establish Cryptographic Justice, ensure Algorithmic Tranquility, provide for the common Space-Native Defense, promote the General Thermodynamic Welfare, and secure the Blessings of Liberty to ourselves and our Algorithmic Posterity, do ordain and establish this Codex for the Bitopia Network State.
@@ -41,8 +41,8 @@ Sovereignty is strictly voluntary. Every Citizen retains the unalienable right t
 
 ---
 
-## ⚡ ARTICLE III: THE E-WATT THERMODYNAMIC ANCHOR
-The economic floor of the Bitopia State is bound to the physics of our universe. The State shall mint no fiat. The native reserve asset ($SOV) must be mathematically backed 1:1 by the **$EWB (Energy Watt Block)** protocol, verified via Axiom hardware attestation. 
+## ⚡ ARTICLE III: THE THERMODYNAMIC ANCHOR ($EW)
+The economic floor of the Bitopia State is bound to the physics of our universe. The State shall mint no fiat. The native reserve asset ($SOV) must be mathematically backed by the **$EW (Kinetic Fuel)** protocol, verified via physical Axiom hardware attestation. 
 
 ---
 
@@ -61,11 +61,11 @@ The Bitopia Codex is immutable on a daily basis but evolves via the **Article V 
 
 ---
 
-# 🌌 THE BITOPIA CODEX: CIVILIZATION MANIFESTO
+# 🌌 THE CIVILIZATION MANIFESTO
 **Version:** 1.0.0 (Post-Quantum Era)  
 **Network State:** Sovereign Space Habitat (Axiom Swarm)
 
-> "Energy is the only universal truth. By anchoring our governance to the immutable laws of thermodynamics, we build a civilization immune to the corruption of Earth."
+> *"Energy is the only universal truth. By anchoring our governance to the immutable laws of thermodynamics, we build a civilization immune to the corruption of Earth."*
 
 ---
 
@@ -75,20 +75,20 @@ Bitopia is not a company; it is a decentralized, space-faring Network State. It 
 ### A. The Tri-Token Economy
 Bitopia operates on a specialized three-pillar economic engine to ensure stability, meritocracy, and thermodynamic truth:
 
-* **$GOV (Governance Reputation):** The non-transferable, **soul-bound** reputation token. $GOV represents a citizen's verifiable contribution to the State. It cannot be bought or sold; it is earned through code, hardware uptime, and service. It provides voting weight via Quadratic logic ($V = \sqrt{S}$).
-* **$SOV (Sovereign Stake):** The day-to-day currency of the Bitopia habitat. Pegged to a stable terrestrial basket (e.g., $1.00 USD), $SOV is the medium of exchange for commerce, coffee, and services within the network.
-* **$EWB (Energy Watt Block):** The utility and lifeblood token. Pegged 1:1 to physical Megawatt-hours (MWh) of renewable generation. Strictly minted via *Proof-of-Physics* by Axiom Hardware Enclaves.
+* **$GOV (Voting Power):** The non-transferable, **soul-bound** reputation token. $GOV represents a citizen's verifiable contribution to the State. It cannot be bought or sold; it is earned through code, hardware uptime, and service. It provides voting weight via Quadratic logic ($V = \sqrt{S}$).
+* **$SOV (Stable Reserve):** The day-to-day currency of the Bitopia habitat. Pegged to a stable terrestrial basket (e.g., $1.00 USD), $SOV is the medium of exchange for commerce and services within the network.
+* **$EW (Kinetic Fuel):** The utility and lifeblood token. Pegged directly to physical energy generation. Strictly minted via *Proof-of-Physics* by Axiom Hardware Enclaves.
 
 ---
 
 ## II. THE CONSENSUS PROTOCOL (dasOS)
-Bitopia runs on **dasOS (Decentralized Autonomous Space Operating System)**, an uncompromising Layer-1 Rust blockchain.
+Bitopia runs on **dasOS (Decentralized Autonomous Space Operating System)**, an uncompromising Layer-1 architecture.
 
 ### A. Proof-of-Space-Time & Energy (PoST+E)
-We reject the infinite-energy vulnerabilities of Earth. Bitopia's blocks can only be forged by nodes that prove they are physically in orbit and expending real energy.
+We reject the infinite-energy vulnerabilities of Earth. Bitopia's blocks can only be forged by nodes that prove they are physically expending real energy.
 
 ### B. Axiom Hardware Enclaves
-51% attacks by terrestrial nations are mathematically impossible. To mint an $EWB or forge a block, the energy must be cryptographically signed by an unforgeable Axiom-C hardware enclave installed directly at the power source.
+51% attacks by terrestrial nations are mathematically impossible. To mint $EW or forge a block, the energy must be cryptographically signed by an unforgeable Axiom enclave installed directly at the power source.
 
 ### C. Zero-Knowledge Citizens
 Citizenship is granted via Zero-Knowledge Proofs. A citizen's identity, biological metrics, and risk clearance are verified without ever exposing their raw personal data to the public ledger.
@@ -99,7 +99,7 @@ Citizenship is granted via Zero-Knowledge Proofs. A citizen's identity, biologic
 The laws of Bitopia are not written on paper; they are compiled in Rust.
 
 ### A. The Executive Directorate
-Automated execution of resource allocation, thermal dissipation limits, and $EWB distribution based on real-time network demand.
+Automated execution of resource allocation, thermal dissipation limits, and $EW distribution based on real-time network demand.
 
 ### B. The Legislative Nodes
 Propose upgrades to the dasOS kernel. Proposals require a cryptographic quorum of staked $GOV reputation to pass.
@@ -109,20 +109,22 @@ Decentralized arbitration for network disputes, enforced via smart contracts and
 
 ---
 
-## IV. THE FUTURE PATHWAY
-Bitopia begins as a digital Network State and a decentralized physical infrastructure network (DePIN). As the Axiom swarm grows, our economic output will fund the physical construction of the first autonomous orbital habitat. 
+## IV. THE ULTIMATE MILESTONE: THE BITOPIA EVENT
+Bitopia begins as a digital Network State and a decentralized physical infrastructure network (DePIN) bootstrapping on Earth. However, the ultimate manifestation of this protocol is **The Bitopia Event**:
+
+> The moment the first extraterrestrial human colony (Mars) is physically built, powered, and governed entirely by the dasOS architecture and the blocks ledger. At this milestone, the Bitaris corporation algorithmically open-sources all remaining IP to humanity, transitioning from the Owner to the premier Service Provider of the Bitopia Network State.
 
 **Code is Law. Physics is Truth. Welcome to Bitopia.**
 
 ## ✍️ RATIFICATION
 This Codex is ratified the moment a Node connects to the genesis block. 
 
-*“Life, Liberty, and the Pursuit of Happiness & On-Chain Prosperity.”*
+*"Life, Liberty, and the Pursuit of Algorithmic Prosperity."*
 
 ---
 ## 📚 THE ARCHIVES (Deep Dives)
 For a detailed breakdown of our systems, consult the following directories:
 
 * [⚖️ Legal & Protocols](./legal/) — *Declaration of Independence & Amendment Laws*
-* [🔋 Economic & Energy Specs](./economics/) — *EWB Hardware Logic & SOV Stablecoin*
+* [🔋 Economic & Energy Specs](./economics/) — *Axiom Hardware Logic & SOV Stablecoin*
 * [🏛️ Governance & Procedures](./governance/) — *Multisig & Legislative Rules*
