@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="Bitopia Logo" src="https://github.com/user-attachments/assets/1e9bc851-a9aa-4f09-a301-22c890f31e30" />
+
 # 📜 THE BITOPIA CODEX
 ### The Foundational Protocol of the Sovereign Space Economy
 **Architected by Bitaris Labs | Governed by Bitopia DUNA | Executed by dasOS**
