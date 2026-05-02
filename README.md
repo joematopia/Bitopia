@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="Bitopia Logo" src="https://github.com/user-attachments/assets/1e9bc851-a9aa-4f09-a301-22c890f31e30" />
+<img width="380" height="341" alt="Screenshot 2026-04-09 at 10 14 23 AM" src="https://github.com/user-attachments/assets/4bb19bfe-7dcb-4956-9e62-2a6a4c2c7990" />
+
 
 # 📜 THE BITOPIA CODEX
 ### The Foundational Protocol of the Sovereign Space Economy
